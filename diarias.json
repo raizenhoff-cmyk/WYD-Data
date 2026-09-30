@@ -1,15 +1,1 @@
-[
-  {
-    "id": 3,
-    "nome": "Di\u00E1ria de pegar na varinha",
-    "foto": "313e0234-c394-4130-9d3b-11eeb15247e0.png",
-    "seg": true,
-    "ter": true,
-    "qua": true,
-    "qui": true,
-    "sex": true,
-    "sab": true,
-    "dom": true,
-    "horarios": "20:00"
-  }
-]
+[]
