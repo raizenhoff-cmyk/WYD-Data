@@ -1,15 +1,15 @@
 [
   {
-    "id": 2,
-    "nome": "Diaria de pegar na varinha",
-    "foto": "08e7defc-9645-463b-bb0c-f3768582970d.png",
-    "seg": false,
-    "ter": false,
+    "id": 3,
+    "nome": "Di\u00E1ria de pegar na varinha",
+    "foto": "313e0234-c394-4130-9d3b-11eeb15247e0.png",
+    "seg": true,
+    "ter": true,
     "qua": true,
     "qui": true,
-    "sex": false,
-    "sab": false,
-    "dom": false,
+    "sex": true,
+    "sab": true,
+    "dom": true,
     "horarios": "20:00"
   }
 ]
