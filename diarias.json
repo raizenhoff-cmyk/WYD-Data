@@ -1,16 +1,1 @@
-[
-  {
-    "id": 1,
-    "nome": "1",
-    "foto": "2391.gif",
-    "descricao": "1",
-    "seg": false,
-    "ter": true,
-    "qua": false,
-    "qui": true,
-    "sex": false,
-    "sab": false,
-    "dom": false,
-    "horarios": "19:00, 20:00"
-  }
-]
+[]
