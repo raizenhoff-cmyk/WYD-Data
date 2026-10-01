@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": 1,
+    "nome": "Diaria de pegar na Varinha",
+    "foto": "Captura de tela 2026-07-23 201544.png",
+    "descricao": "Todos os dias temos que sair pegando em varias varinhas. Em noatum!",
+    "seg": false,
+    "ter": false,
+    "qua": false,
+    "qui": false,
+    "sex": false,
+    "sab": true,
+    "dom": true,
+    "horarios": "17:00, 18:00, 20:00"
+  }
+]
