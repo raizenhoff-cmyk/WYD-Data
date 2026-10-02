@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "nome": "11",
+    "foto": "2391.gif",
+    "descricao": "11",
+    "zonas": [
+      1
+    ],
+    "vida": 11,
+    "experiencia": 11,
+    "posX": 11,
+    "posY": 11,
+    "drops": [
+      {
+        "itemNome": "Amago de Beluga",
+        "raridade": "Facil",
+        "qtdMin": 1,
+        "qtdMax": 1
+      }
+    ]
+  }
+]
