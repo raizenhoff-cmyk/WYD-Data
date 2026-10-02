@@ -19,5 +19,29 @@
         "qtdMax": 1
       }
     ]
+  },
+  {
+    "id": 2,
+    "nome": "121e1",
+    "foto": "Captura de tela 2026-04-07 191019.png",
+    "descricao": "d1d1",
+    "zonas": [],
+    "vida": 1,
+    "experiencia": 1,
+    "posX": 0,
+    "posY": 0,
+    "drops": []
+  },
+  {
+    "id": 3,
+    "nome": "fd2f2f2",
+    "foto": "Captura de tela 2026-09-19 202001.png",
+    "descricao": "",
+    "zonas": [],
+    "vida": 0,
+    "experiencia": 0,
+    "posX": 0,
+    "posY": 0,
+    "drops": []
   }
 ]
