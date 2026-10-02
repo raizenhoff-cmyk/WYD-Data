@@ -43,5 +43,26 @@
     "posX": 0,
     "posY": 0,
     "drops": []
+  },
+  {
+    "id": 4,
+    "nome": "Beluga",
+    "foto": "2391.gif",
+    "descricao": "",
+    "zonas": [
+      2
+    ],
+    "vida": 1,
+    "experiencia": 1,
+    "posX": 0,
+    "posY": 0,
+    "drops": [
+      {
+        "itemNome": "Amago de Beluga",
+        "raridade": "Moderado",
+        "qtdMin": 1,
+        "qtdMax": 1
+      }
+    ]
   }
 ]
