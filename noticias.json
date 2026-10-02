@@ -2,7 +2,7 @@
   {
     "id": 1,
     "titulo": "Teste",
-    "texto": "Teste",
+    "texto": "Teste\nteste",
     "publicadaEm": "2026-10-02T18:04:00.0000000"
   }
 ]
