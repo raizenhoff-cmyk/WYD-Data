@@ -1,0 +1,14 @@
+[
+  { "id": 1, "nome": "Elmo" },
+  { "id": 2, "nome": "Peitoral" },
+  { "id": 3, "nome": "Luvas" },
+  { "id": 4, "nome": "Calças" },
+  { "id": 5, "nome": "Botas" },
+  { "id": 6, "nome": "Arma de uma mão" },
+  { "id": 7, "nome": "Arma de duas mãos" },
+  { "id": 8, "nome": "Ovos" },
+  { "id": 9, "nome": "Amagos" },
+  { "id": 10, "nome": "Entradas de Quest" },
+  { "id": 11, "nome": "Evento" },
+  { "id": 12, "nome": "Outros" }
+]
