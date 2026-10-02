@@ -2,7 +2,7 @@
   {
     "id": 1,
     "titulo": "Teste",
-    "texto": "teste\n\n\u003Cspan style=\u0022color:#6E9E6E\u0022\u003Eteste\u003C/span\u003E\n\n\u003Cspan style=\u0022color:#E05555\u0022\u003Eteste\u003C/span\u003E",
-    "publicadaEm": "2026-10-02T18:22:00.0000000"
+    "texto": "teste\n\n\u003Cspan style=\u0022color:#E05555\u0022\u003Eteste\u003C/span\u003E\n\n\u003Cspan style=\u0022color:#6E9E6E\u0022\u003Eteste\u003C/span\u003E",
+    "publicadaEm": "2026-10-02T18:25:00.0000000"
   }
 ]
