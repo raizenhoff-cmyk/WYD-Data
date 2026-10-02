@@ -8,15 +8,5 @@
     "armadura": 0,
     "ataque": 0,
     "descricao": ""
-  },
-  {
-    "id": 2,
-    "nome": "Varinha",
-    "valor": "100",
-    "foto": "Captura de tela 2026-07-23 201544.png",
-    "categoria": "Arma de uma m\u00E3o",
-    "armadura": 0,
-    "ataque": 120,
-    "descricao": "varinha absurda"
   }
 ]
