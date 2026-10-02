@@ -1,14 +1,8 @@
 [
   {
     "id": 1,
-    "titulo": "Hoje teremos um jantar na casa da blumiron!",
-    "texto": "As 19:00 iremos a casa da senhorita blumiron comer um jantar especial, que sera servido **frango** as tracas.",
-    "publicadaEm": "2026-09-30T22:17:00.0000000"
-  },
-  {
-    "id": 2,
-    "titulo": "1",
-    "texto": "1",
-    "publicadaEm": "2026-09-30T22:22:00.0000000"
+    "titulo": "Nova vers\u00E3o do applicativo!!!",
+    "texto": "**Novas features do aplicativo**\n\n**\uD83D\uDCCB Droplist completa**\n\nAgora voc\u00EA pode:\n\nBuscar por Zona \u2014 v\u00EA todas as zonas do mapa com foto e clica pra ver os monstros\n\nBuscar por Item \u2014 descobre rapidamente quais monstros dropam o item que voc\u00EA quer\n\nBuscar por Monstro \u2014 pesquisa qualquer monstro pelo nome\n\nClicar no monstro \u2014 v\u00EA foto, vida, XP, localiza\u00E7\u00E3o no mapa, zonas onde aparece e todos os drops com raridade\n\n\n\n**\uD83C\uDFA8 Sistema de raridade**\n\nCada drop tem uma cor:\n\n\uD83D\uDFE6 F\u00E1cil \u00B7 \uD83D\uDFE8 Moderado \u00B7 \uD83D\uDFE7 Dif\u00EDcil \u00B7 \uD83D\uDFE5 Raro\n\nQuando voc\u00EA busca um item, os monstros aparecem ordenados do mais f\u00E1cil pro mais raro.\n\n\n\n**\uD83C\uDFF7\uFE0F Categorias nos itens**\n\nOs itens agora t\u00EAm categoria (Elmo, Arma, Luvas, Ovos, etc). Ao editar um slot do ba\u00FA, voc\u00EA pode filtrar por categoria \u2014 muito mais r\u00E1pido achar o que quer.\n\n\n\n**\uD83D\uDCCA Informa\u00E7\u00F5es completas dos itens**\n\nAo passar o mouse num item no ba\u00FA, agora aparece:\n\nCategoria\n\nValor de armadura\n\nValor de ataque\n\nDescri\u00E7\u00E3o\n\n\n\n**\u2728 Melhorias**\n\nLogin autom\u00E1tico \u2014 o app lembra a \u00FAltima conta e personagem que voc\u00EA usou. Abriu, t\u00E1 logado.\n\nSincroniza\u00E7\u00E3o entre PCs \u2014 suas contas, personagens e ba\u00FA aparecem em qualquer PC que voc\u00EA logar com a mesma conta Google.\n\nScroll nas pr\u00F3ximas di\u00E1rias \u2014 agora cabem quantas di\u00E1rias voc\u00EA tiver, com rolagem.\n\nOrdem inteligente das di\u00E1rias \u2014 sempre aparece primeiro a que vai rolar antes.\n\nExcluir personagem \u2014 bot\u00E3o de X no card pra remover quando quiser.\n\n\u00CDcone personalizado \u2014 o app agora tem \u00EDcone pr\u00F3prio na barra de tarefas e no atalho.\n\n\n\n**\uD83D\uDC1B Corre\u00E7\u00F5es**\n\nCorrigido bug onde personagens apareciam duplicados\n\nCorrigido bug das di\u00E1rias que \u0022sumiam\u0022 ao trocar de personagem\n\nCorrigido bug onde o nome de personagem n\u00E3o era liberado ap\u00F3s exclus\u00E3o\n\nCorrigido bug onde itens do ba\u00FA \u0022sumiam\u0022 ap\u00F3s sincroniza\u00E7\u00E3o\n\nMelhorias gerais de estabilidade",
+    "publicadaEm": "2026-10-02T16:10:00.0000000"
   }
 ]
