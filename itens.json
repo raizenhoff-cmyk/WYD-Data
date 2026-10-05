@@ -4,7 +4,37 @@
     "nome": "Amago de Beluga",
     "valor": "100",
     "foto": "2391.gif",
-    "categoria": "",
+    "categoria": "Amagos",
+    "armadura": 0,
+    "ataque": 0,
+    "descricao": ""
+  },
+  {
+    "id": 2,
+    "nome": "Bola de Neve",
+    "valor": "3000000",
+    "foto": "1721.gif",
+    "categoria": "Outros",
+    "armadura": 0,
+    "ataque": 0,
+    "descricao": ""
+  },
+  {
+    "id": 3,
+    "nome": "Manoplas Embutidas(M) [D]",
+    "valor": "0",
+    "foto": "1217.gif",
+    "categoria": "Luvas",
+    "armadura": 0,
+    "ataque": 0,
+    "descricao": ""
+  },
+  {
+    "id": 4,
+    "nome": "Poeira de Lactolerium",
+    "valor": "0",
+    "foto": "413.gif",
+    "categoria": "Outros",
     "armadura": 0,
     "ataque": 0,
     "descricao": ""
