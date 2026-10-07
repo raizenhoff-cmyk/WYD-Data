@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "nome": "Amago de Beluga",
-    "valor": "100",
-    "foto": "2391.gif",
-    "categoria": "Amagos",
+    "nome": "Poeira de Lactolerium",
+    "valor": "",
+    "foto": "413.png",
+    "categoria": "Outros",
     "armadura": 0,
     "ataque": 0,
     "descricao": ""
@@ -12,8 +12,8 @@
   {
     "id": 2,
     "nome": "Bola de Neve",
-    "valor": "3000000",
-    "foto": "1721.gif",
+    "valor": "2500000",
+    "foto": "1721_20261007153449.png",
     "categoria": "Outros",
     "armadura": 0,
     "ataque": 0,
@@ -21,20 +21,10 @@
   },
   {
     "id": 3,
-    "nome": "Manoplas Embutidas(M) [D]",
-    "valor": "0",
-    "foto": "1217.gif",
+    "nome": "Manoplas Embutidas (M) [D]",
+    "valor": "",
+    "foto": "1216.png",
     "categoria": "Luvas",
-    "armadura": 0,
-    "ataque": 0,
-    "descricao": ""
-  },
-  {
-    "id": 4,
-    "nome": "Poeira de Lactolerium",
-    "valor": "0",
-    "foto": "413.gif",
-    "categoria": "Outros",
     "armadura": 0,
     "ataque": 0,
     "descricao": ""
